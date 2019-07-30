@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="search_field_label">Search for books</string>
+    <string name="search_max_results_spinner_label">Max Results</string>
+
+    <!-- The class name to the ScrollingChildBehavior required for AppBarLayout -->
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="no_connection_message">No connection</string>
+    <string name="no_connection_icon_description">A disabled Wi-fi signal</string>
+
+    <string name="empty_results_message">Nothing found</string>
+    <string name="empty_results_icon_description">A crying face</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="welcome">Welcome!</string>
+    <string name="register">Register</string>
+    <string name="email_id">Email ID</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="payment">Payment</string>
+    <string name="choose_option">Choose Option</string>
+    <string name="credit_debit_card">Credit/Debit Card</string>
+    <string name="cash_on_delivery">Cash On Delivery</string>
+    <string name="month">Month:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="yy">YY</string>
+    <string name="pin">PIN:</string>
+    <string name="mm">MM</string>
+    <string name="card_no">Card No:</string>
+    <string name="year">Year:</string>
+    <string name="expiry_date">-Expiry Date-</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="phone_no">Phone No:</string>
+
+
+    <string-array name="max_results">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+    </string-array>
+
+
+</resources>
+
+
